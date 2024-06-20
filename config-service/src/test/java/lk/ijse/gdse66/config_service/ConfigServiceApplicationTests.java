@@ -8,7 +8,6 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 
 @SpringBootTest
 @EnableDiscoveryClient
-@EnableConfigServer
 class ConfigServiceApplicationTests {
 
 	@Test
