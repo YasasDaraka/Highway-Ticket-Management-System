@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: user-service
+  config:
+    import: "optional:configserver:http://localhost:8081"
+  datasource:
+    url: jdbc:mysql://localhost:3306/highway-management?createDatabaseIfNotExist=true
+    username: root
+    password: 1234
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      maximum-pool-size: 20
+
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+    generate-ddl: true
+    show-sql: true
+    database: mysql
+
+server:
+  servlet:
+    context-path: /user
+
