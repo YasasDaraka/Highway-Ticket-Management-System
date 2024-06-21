@@ -4,31 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cf357c7-5567-4973-af20-d1cf258c2363" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../config-server/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/src/main/java/lk/ijse/gdse66/config_service/ConfigServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../config-service/src/main/java/lk/ijse/gdse66/config_service/ConfigServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/src/main/resources/config/user-service.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/src/test/java/lk/ijse/gdse66/config_service/ConfigServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../config-service/src/test/java/lk/ijse/gdse66/config_service/ConfigServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user-service/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user-service/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user-service/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user-service/src/main/java/lk/ijse/gdse66/user_service/ServletInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user-service/src/main/java/lk/ijse/gdse66/user_service/UserServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user-service/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user-service/src/test/java/lk/ijse/gdse66/user_service/UserServiceApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/gdse66/vehicle_service/ServletInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/gdse66/vehicle_service/VehicleServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/lk/ijse/gdse66/vehicle_service/VehicleServiceApplicationTests.java" beforeDir="false" />
+    <list default="true" id="2cf357c7-5567-4973-af20-d1cf258c2363" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/.idea/vehicle-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/target/classes/com/example/apigateway/ApiGatewayApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/target/classes/com/example/apigateway/ApiGatewayApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/src/main/resources/config/vehicle-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-service/src/main/resources/config/vehicle-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticket-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ticket-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticket-service/src/main/java/lk/ijse/gdse66/ticket_service/TicketServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ticket-service/src/main/java/lk/ijse/gdse66/ticket_service/TicketServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticket-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/.idea/dataSources/046e568b-4fe5-4dd9-9b37-3e0aa6bde88c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/.idea/dataSources/046e568b-4fe5-4dd9-9b37-3e0aa6bde88c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/src/main/java/lk/ijse/gdse/userserver/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/src/main/java/lk/ijse/gdse/userserver/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/target/classes/lk/ijse/gdse/userserver/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/target/classes/lk/ijse/gdse/userserver/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/gdse/vehicleserver/VehicleServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/gdse/vehicleserver/VehicleServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/gdse/vehicleserver/VehicleServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lk/ijse/gdse/vehicleserver/VehicleServerApplication.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,57 +29,53 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
   <component name="ProjectId" id="2i92REKUi8cutZczzJVElzLsh4E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.VehicleServiceApplication.executor": "Run",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Highway Ticket Management System/vehicle-service",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ticket-service" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Highway Ticket Management System\vehicle-service\src\main\java\lk\ijse\gdse\vehicleserver" />
       <recent name="E:\Highway Ticket Management System\vehicle-service\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lk.ijse.gdse.vehicleserver.dto" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.VehicleServerApplication (1)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VehicleServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="vehicle-service" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="lk.ijse.gdse.vehicleserver.VehicleServerApplication" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lk.ijse.gdse.vehicleserver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lk.ijse.gdse.vehicleserver.VehicleServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,9 +88,9 @@
       </method>
     </configuration>
     <configuration name="VehicleServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="graalvm-jdk-21" />
       <module name="vehicle-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="lk.ijse.gdse66.vehicle_service.VehicleServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" value="graalvm-jdk-21" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -132,10 +119,22 @@
       <updated>1718888461496</updated>
       <workItem from="1718888462639" duration="4184000" />
       <workItem from="1718896209787" duration="536000" />
+      <workItem from="1718950594240" duration="10424000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

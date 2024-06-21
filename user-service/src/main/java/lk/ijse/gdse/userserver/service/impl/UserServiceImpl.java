@@ -37,15 +37,14 @@ public class UserServiceImpl implements UserService {
                     throw new DuplicateRecordException("User Already Exist");
                 },
                 () -> {
-                    User user = modelMapper.map(dto, User.class);
-                    userRepo.save(user);
+                    userRepo.save(modelMapper.map(dto, User.class));
                 });
     }
 
     @Override
     public UserDTO searchUser(String id) {
         return (UserDTO) userRepo.findById(id)
-                .map(cus -> modelMapper.map(userRepo.findById(id), UserDTO.class))
+                .map(user -> modelMapper.map(userRepo.findById(id), UserDTO.class))
                 .orElseThrow(() -> new NotFoundException("User Not Exist"));
     }
 
@@ -56,7 +55,7 @@ public class UserServiceImpl implements UserService {
                     userRepo.save(modelMapper.map(dto, User.class));
                 },
                 () -> {
-                    throw new DuplicateRecordException("User Not Exist");
+                    throw new NotFoundException("User Not Exist");
                 });
 
     }
@@ -64,7 +63,7 @@ public class UserServiceImpl implements UserService {
     @Override
     public void deleteUser(String id) {
         userRepo.findById(id).ifPresentOrElse(
-                customer -> {
+                user -> {
                     userRepo.deleteById(id);
                 }
                 ,
