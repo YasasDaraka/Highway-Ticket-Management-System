@@ -92,7 +92,7 @@ public class TicketServiceImpl implements TicketService {
     @Override
     public TicketDTO searchTicket(Long id) {
         return (TicketDTO) ticketRepo.findById(id)
-                .map(cus -> modelMapper.map(ticketRepo.findById(id), TicketDTO.class))
+                .map(ticket -> modelMapper.map(ticketRepo.findById(id), TicketDTO.class))
                 .orElseThrow(() -> new NotFoundException("Ticket Not Exist"));
     }
 

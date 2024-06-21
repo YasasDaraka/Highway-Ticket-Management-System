@@ -13,7 +13,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/ticket")
 @CrossOrigin
-public class VehicleController {
+public class TicketController {
 
     @Autowired
     TicketService ticketService;
