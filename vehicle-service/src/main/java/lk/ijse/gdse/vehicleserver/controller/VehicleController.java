@@ -46,7 +46,7 @@ public class VehicleController {
         return ResponseEntity.noContent().build();
     }
 
-    @DeleteMapping(params = "userNic")
+    @DeleteMapping(params = "licensePlate")
     public ResponseEntity<Void> deleteCustomer(@RequestParam("licensePlate") String licensePlate) {
         vehicleService.deleteVehicle(licensePlate);
         return ResponseEntity.noContent().build();
