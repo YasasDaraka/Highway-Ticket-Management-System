@@ -6,18 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="83d2822d-691a-485e-ba8d-963a5925fb3a" name="Changes" comment="Changes">
       <change beforePath="$PROJECT_DIR$/../api-gateway/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api-gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4c9472b6-e0c3-4ada-b37e-cd08923de649.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4c9472b6-e0c3-4ada-b37e-cd08923de649/storage_v2/_src_/schema/ad2.b3gBAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4c9472b6-e0c3-4ada-b37e-cd08923de649/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4c9472b6-e0c3-4ada-b37e-cd08923de649/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4c9472b6-e0c3-4ada-b37e-cd08923de649/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4c9472b6-e0c3-4ada-b37e-cd08923de649/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vehicle-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vehicle-service/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vehicle-service/src/main/java/lk/ijse/gdse/vehicleserver/controller/VehicleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vehicle-service/src/main/java/lk/ijse/gdse/vehicleserver/controller/VehicleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vehicle-service/target/classes/lk/ijse/gdse/vehicleserver/controller/VehicleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vehicle-service/target/classes/lk/ijse/gdse/vehicleserver/controller/VehicleController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
